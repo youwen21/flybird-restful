@@ -1,0 +1,20 @@
+
+[mysql_default]
+host = ""
+username = ""
+password = ""
+port = "3306"
+database = ""
+charset = "utf8mb4"
+
+[redis_default]
+host = ""
+port = "3306"
+password = ""
+db = 1
+
+[smtp]
+smtpHost = ""
+port = 465
+user = ""
+password = ""

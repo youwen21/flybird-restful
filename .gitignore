@@ -1,0 +1,16 @@
+.DS_Store
+.idea
+.env
+pid
+log.log
+gofly
+
+
+bin/*
+
+/app/html
+/app/vue
+
+
+
+
