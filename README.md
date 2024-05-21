@@ -68,9 +68,9 @@ DELETE {{host}}/restful/:tableName/:id
 
 [Config](doc/config.md)
 
-[Restful API](doc/restful-api)
+[Restful API](doc/restful-api.md)
 
-[Advanced API](doc/advanced-api)
+[Advanced API](doc/advanced-api.md)
 
 [Docker](doc/docker.md)
 
